@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351195437315",
+    "project_id": "colorful-f5dd4",
+    "storage_bucket": "colorful-f5dd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351195437315:android:8342aef1a7f2f0b545f136",
+        "android_client_info": {
+          "package_name": "com.example.hike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgWuvGKOO0fUMVZ0bvJ1JAqhng01WZN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
